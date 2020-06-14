@@ -1,0 +1,14 @@
+image: ruby:latest
+
+pipelines:
+  default:
+    - step:
+        name: Generate the web with Jekyll
+        script:
+          - bundler --version
+          - bundle install
+          - bundle exec jekyll build --destination public
+          - mkdir dist
+          - tar -czvf dist/package-${BITBUCKET_BUILD_NUMBER}.tar.gz -C public .
+        artifacts:
+          - dist/**
