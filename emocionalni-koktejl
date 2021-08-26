@@ -1,0 +1,91 @@
+---
+layout: firstpage
+title: Plemeno
+---
+<!-- Jumbotron -->
+<div class="jumbotron jumbotron-fluid" data-center="background-size: 100%;" data-top-bottom="background-size: 110%;">
+   <div class="container">
+      <!-- jumbo-heading -->
+      <div class="jumbo-heading" data-aos="fade-up">
+         <h1>Současnost DALVIT</h1>
+         <!-- Breadcrumbs -->
+         <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+               <li class="breadcrumb-item"><a href="/">Domů</a></li>
+               <li class="breadcrumb-item"><a href="/blog">Blog</a></li>
+               <li class="breadcrumb-item active"><a href="/soucasnost">Současnost</a></li>
+            </ol>
+         </nav>
+         <!-- /breadcrumb -->
+      </div>
+      <!-- /jumbo-heading -->
+   </div>
+   <!-- /container -->
+</div>
+<!-- /jumbotron -->
+<!-- ==== Page Content ==== -->
+<div class="page">
+   <div class="container">
+      <div class="row">
+         <!-- Post Content Column -->
+         <a name=psi></a>
+         <div class="col-lg-9 blog-card page-with-sidebar">
+            <h2 class="mb-2">Současnost chovné stanice DALVIT</h2>
+            <!-- Post info-->
+            <div class="post-info text-muted">
+               19. srpna 2019 / Lenka Kubová
+            </div>
+            <hr>
+            <!-- Preview Image -->
+            <img src="/img/blog/soucasnost2.jpg" class="img-fluid" alt="">
+            <hr>
+            <!-- Post Content -->
+            <p class="lead text-primary">Současnost chovné stanice DALVIT</p>
+
+            <p align="justify">Tyto webové stránky vznikly u příležitosti mého životního jubilea. Přála jsem si je k narozeninám. Celý můj život se točí okolo zvířat, psů nejvíce, nejdéle. Logicky přemítám, rekapituluji. A tak když se mne někdo zeptá na budoucnost našeho chovu, neumím odpovědět třemi větami. Na pomoc si tedy beru Karla Čapka, jeho text z díla Měl jsem psa a kočku tak, jak bylo vydáno v Československém spisovateli v roce 1983:</p>
+                  <ul class="custom pl-0">
+                     <li>Všechna štěňata jsou stejná; všechna se rodí se stejnými zvyky a rostou podle stejných pravidel hry. Všechna vlezou, kam nepatří, dělají sedmdesát sedm loužiček za den, trhají lidem punčochy, žerou, co nemají, například židle, provázky, mýdlo, koberce a prsty, spí v koši s čistým prádlem, každých pět minut volají o pomoc, učí se štěkat a jsou tiše jen tehdy, dělají-li nějakou nenapravitelnou škodu. To vše je neodvratný přírodní zákon, platný pro všechna štěňata na světě.</li>
+                     <li>Naproti tomu každé štěně je od narození jiné co do masky, schopností a duševního habitu. Jedno štěně se narodí jako tvor uvážlivý a přemítavý; druhé je od prvního dne rváč, lehkomyslník a dobyvatel; třetí je kvílivý a věčně uražený sebemilec; čtvrté je dobrák a kliďas. Jsou mezi štěňaty letory cholerické, melancholické, sangvinické i flegmatické; charaktery pyknické i rozpolcené, hrdinné i rošťácké; jsou štěňata činu i štěňata sentimentální, nátury achillovské i odysseovské, temperamenty horké i chladné, osobnosti uzavřené i povahy družné. Všechna štěňata dělají totéž, ale každé jinak. Věčná je stejnost a nekonečná rozmanitost všeho, co žije.</li>
+            <p align="justify">Chov a pejsci obecně pro nás nejsou jen koníčkem, díky naší práci i dennodenním chlebem, životním stylem, jsou součástí našeho života, rodinou. Nikdy nebudeme patřit mezi chovatele, kteří si pořídí zvíře za účelem zisku. Obecně to ani není u slušných lidí možné, u sloughi je to pak vyloučeno:-). </p>
+         </div>
+         <!-- /page-with-sidebar -->
+         <!-- Sidebar -->
+         <div id="sidebar" class="bg-light h-100 col-lg-3 card pattern3">
+            <!--/widget-area -->
+            <div class="widget-area">
+               <h5 class="sidebar-header">Kategorie</h5>
+               <div class="list-group">
+                  <a href="/plemeno" class="list-group-item
+                                       list-group-item-action">
+                     Povaha Sloughi
+                  </a>
+                  <a href="/psi-ktere-kazdy-nezna" class="list-group-item
+                                       list-group-item-action">Psi, které každý nezná</a>
+                  <a href="/standard-fci" class="list-group-item
+                                       list-group-item-action">Standard FCI</a>
+                  <a href="/soucasnost" class="list-group-item
+                                       list-group-item-action">Současnost</a>
+               </div>
+            </div>
+
+            <!--/widget-area -->
+            <div class="widget-area">
+               <h5 class="sidebar-header">Sledujte nás</h5>
+               <div class="contact-icon-info">
+                  <ul class="social-media text-center">
+                     <!--social icons -->
+                     <li><a href="https://www.facebook.com/lenka.malinovska.39"><i
+                              class="fab fa-facebook-square"></i></a></li>
+                  </ul>
+               </div>
+               <!--/contact-icon-info -->
+            </div>
+            <!--/widget-area -->
+         </div>
+         <!--/sidebar -->
+      </div>
+      <!-- /.row -->
+   </div>
+   <!-- /.container -->
+</div>
+<!-- /page -->
