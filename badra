@@ -1,0 +1,346 @@
+---
+layout: firstpage
+title: Vrh A
+---
+<!-- Jumbotron -->
+<div class="jumbotron jumbotron-fluid" data-center="background-size: 100%;" data-top-bottom="background-size: 110%;">
+   <div class="container">
+      <!-- jumbo-heading -->
+      <div class="jumbo-heading" data-aos="fade-up">
+         <h1>Vrh "A"</h1>
+         <!-- Breadcrumbs -->
+         <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+               <li class="breadcrumb-item"><a href="index.html">Domů</a></li>
+               <li class="breadcrumb-item active"><a href="/vrh-a">Vrh A</a></li>
+            </ol>
+         </nav>
+         <!-- /breadcrumb -->
+      </div>
+      <!-- /jumbo-heading -->
+   </div>
+   <!-- /container -->
+</div>
+<!-- /jumbotron -->
+<!-- ==== Page Content ==== -->
+<div class="page container">
+   <div class="row">
+      <!-- page with sidebar starts -->
+      <div class="col-lg-12 page-with-sidebar">
+         <h2>Vrh "A"</h2>
+         <span class="h7 mt-0">Narozen 12. 6. 2004 - 6 štěňat sloughi, 4 feny a
+            2 psi.</span>
+         <hr class="small-divider left">
+         <!-- story 1 -->
+         <div class="row mt-5">
+            <div class="col-md-4 d-flex flex-wrap align-items-center pattern1">
+               <!-- image -->
+               <img alt="Dukal Umm bersheba´s el Abid" src="/img/vrh/A/otec_avrh.png" class="rounded-circle img-fluid">
+            </div>
+            <!-- /col-md -->
+            <div class="col-md-8" style="margin-top: auto;
+            margin-bottom: auto;">
+               <h4>Otec:<br/>Dukal Umm bersheba´s el Abid</h4>
+               <p class="res-margin">Otec Dukal Umm bersheba´s el Abid (majitel
+                  p.Dieter GRAMS ze Švýcarska).</p>
+            </div>
+            <!-- /col-md -->
+         </div>
+         <!-- /row -->
+         <hr />
+         <!-- /divider -->
+         <!-- story 2 -->
+         <div class="row mt-5">
+            <div class="col-md-8" style="margin-top: auto;
+            margin-bottom: auto;">
+               <h4>Matka:<br/> C´Chemala Bohemia Genao
+               </h4>
+
+            </div>
+            <!-- /col-md -->
+            <div class="col-md-4 d-flex flex-wrap align-items-center
+                  pattern1">
+               <!-- image -->
+               <img alt="" src="/img/vrh/A/matka_avrh.jpg" class="rounded-circle img-fluid">
+            </div>
+            <!-- /col-md -->
+         </div>
+         <!-- /row -->
+         <hr />
+         <!-- /divider -->
+      </div>
+      <!-- /page-with-sidebar -->
+   </div>
+   <!-- /row -->
+</div>
+<div class="bg-light block-padding">
+   <!-- Team style 2 -->
+   <h3 class="text-center">ŠTĚŇÁTKA SE NARODILA TAKTO:</h3>
+   <div class="container mt-5">
+      <div class="row">
+         <!-- team carousel -->
+         <div class="col-md-12 carousel-3items owl-carousel owl-theme">
+            <!-- Team member 1 -->
+            <div class="team-style2 col-lg-12">
+               <!-- image and social icons -->
+               <div class="img-box">
+                  <div class="text-center">
+                     <img src="/img/vrh/A/a1.jpg" class="img-fluid" alt="ATAKOR ag Dalvit">
+               
+                  </div>
+               </div>
+               <!-- Team header -->
+               <a href="#">
+                  <h5 class="team-header">1. ATAKOR ag Dalvit </h5>
+               </a>
+               <span>pes <br />barva: písková</span>
+               <hr class="small-divider left" />
+            </div>
+            <!--/ Team member 1 -->
+            <!-- Team member 2 -->
+            <div class="team-style2 col-lg-12">
+               <!-- image and social icons -->
+               <div class="img-box">
+                  <div class="text-center">
+                     <img src="/img/vrh/A/a2.jpg" class="img-fluid" alt="AHAGGAR ag Dalvit">
+                  </div>
+
+               </div>
+               <!-- Team header -->
+               <a href="#">
+                  <h5 class="team-header">2. AHAGGAR ag Dalvit</h5>
+               </a>
+               <span>pes <br />barva: písková</span>
+               <hr class="small-divider left" />
+            </div>
+            <!--/ Team member 2-->
+            <!-- Team member 3 -->
+            <div class="team-style2 col-lg-12">
+               <!-- image and social icons -->
+               <div class="img-box">
+                  <div class="text-center">
+                     <img src="/img/vrh/A/a3.jpg" class="img-fluid" alt="ACHEULÉEN
+                                                ag Dalvit">
+                  </div>
+               </div>
+               <!-- Team header -->
+               <a href="#">
+                  <h5 class="team-header">3. ACHEULÉEN
+                     ag Dalvit</h5>
+               </a>
+               <span>fena <br />barva černá</span>
+               <hr class="small-divider left" />
+            </div>
+            <!--/ Team member 3 -->
+            <!-- Team member 4 -->
+            <div class="team-style2 col-lg-12">
+               <!-- image and social icons -->
+               <div class="img-box">
+                  <div class="text-center">
+                     <img src="/img/vrh/A/a4.jpg" class="img-fluid" alt="AKABA ag Dalvit">
+                  </div>
+               </div>
+               <!-- Team header -->
+               <a href="#">
+                  <h5 class="team-header">4.
+                     AKABA ag Dalvit </h5>
+               </a>
+               <span>fena <br />barva
+                  černá</span>
+               <hr class="small-divider left" />
+            </div>
+            <!--/ Team member 4 -->
+            <!-- Team member 5 -->
+            <div class="team-style2 col-lg-12">
+               <!-- image and social icons -->
+               <div class="img-box">
+                  <div class="text-center">
+                     <img src="/img/vrh/A/a5.jpg" class="img-fluid" alt="AZIRA ag
+                                                               Dalvit">
+                  </div>
+               </div>
+               <!-- Team header -->
+               <a href="#">
+                  <h5 class="team-header">5.
+                     AZIRA ag Dalvit</h5>
+               </a>
+               <span>fena <br />barva
+                  černá</span>
+               <hr class="small-divider left" />
+            </div>
+            <!--/ Team member 5 -->
+            <!-- Team member 6 -->
+            <div class="team-style2
+                                                         col-lg-12">
+               <!-- image and social icons -->
+               <div class="img-box">
+                  <div class="text-center">
+                     <img src="/img/vrh/A/a6.jpg" class="img-fluid" alt="AGALELLA
+                                                                  ag Dalvit">
+                  </div>
+               </div>
+               <!-- Team header -->
+               <a href="#">
+                  <h5 class="team-header">6.
+                     AGALELLA ag
+                     Dalvit</h5>
+               </a>
+               <span>fena <br />barva
+                  písková</span>
+               <hr class="small-divider left" />
+
+            </div>
+            <!--/ Team member 6 -->
+         </div>
+         <!--/col-md-12 -->
+      </div>
+   </div>
+   <!-- /container -->
+</div>
+<div id="gallery-isotope" class="mt-5 tz-gallery">
+   <!-- image -->
+   <div class="isotope-item
+                                                         col-lg-4 col-md-6">
+      <a class="baguette-lightbox" href="/img/vrh/A/1.jpg">
+         <img class="img-fluid" src="/img/vrh/A/1.jpg" alt="">
+      </a>
+   </div>
+   <!-- image -->
+   <div class="isotope-item col-lg-4 col-md-6">
+      <a class="baguette-lightbox" href="/img/vrh/A/2.jpg">
+         <img class="img-fluid" src="/img/vrh/A/2.jpg" alt="">
+      </a>
+   </div>
+   <!-- image -->
+   <div class="isotope-item
+                                                         col-lg-4 col-md-6">
+      <a class="baguette-lightbox" href="/img/vrh/A/3.jpg">
+         <img class="img-fluid" src="/img/vrh/A/3.jpg" alt="">
+      </a>
+   </div>
+   <!-- image -->
+   <div class="isotope-item col-lg-4 col-md-6">
+      <a class="baguette-lightbox" href="/img/vrh/A/4.jpg">
+         <img class="img-fluid" src="/img/vrh/A/4.jpg" alt="">
+      </a>
+   </div>
+   <!-- image -->
+   <div class="isotope-item col-lg-4 col-md-6">
+      <a class="baguette-lightbox" href="/img/vrh/A/5.jpg">
+         <img class="img-fluid" src="/img/vrh/A/5.jpg" alt="">
+      </a>
+   </div>
+   <!-- image -->
+   <div class="isotope-item
+                                                         col-lg-4 col-md-6">
+      <a class="baguette-lightbox" href="/img/vrh/A/6.jpg">
+         <img class="img-fluid" src="/img/vrh/A/6.jpg" alt="">
+      </a>
+   </div>
+   <!-- image -->
+   <div class="isotope-item
+                                                         col-lg-4 col-md-6">
+      <a class="baguette-lightbox" href="/img/vrh/A/7.jpg">
+         <img class="img-fluid" src="/img/vrh/A/7.jpg" alt="">
+      </a>
+   </div>
+   <!-- image -->
+   <div class="isotope-item
+                                                         col-lg-4 col-md-6">
+      <a class="baguette-lightbox" href="/img/vrh/A/8.jpg">
+         <img class="img-fluid" src="/img/vrh/A/8.jpg" alt="">
+      </a>
+   </div>
+   <!-- image -->
+   <div class="isotope-item
+                                                         col-lg-4 col-md-6">
+      <a class="baguette-lightbox" href="/img/vrh/A/9.jpg">
+         <img class="img-fluid" src="/img/vrh/A/9.jpg" alt="">
+      </a>
+   </div>
+   <div class="isotope-item
+                                                         col-lg-4 col-md-6">
+      <a class="baguette-lightbox" href="/img/vrh/A/10.jpg">
+         <img class="img-fluid" src="/img/vrh/A/10.jpg" alt="">
+      </a>
+   </div>
+
+   <div class="isotope-item
+                                                         col-lg-4 col-md-6">
+      <a class="baguette-lightbox" href="/img/vrh/A/11.jpg">
+         <img class="img-fluid" src="/img/vrh/A/11.jpg" alt="">
+      </a>
+   </div>
+   <!-- image -->
+   <div class="isotope-item col-lg-4 col-md-6">
+      <a class="baguette-lightbox" href="/img/vrh/A/12.jpg">
+         <img class="img-fluid" src="/img/vrh/A/12.jpg" alt="">
+      </a>
+   </div>
+   <!-- image -->
+   <div class="isotope-item
+                                                         col-lg-4 col-md-6">
+      <a class="baguette-lightbox" href="/img/vrh/A/13.jpg">
+         <img class="img-fluid" src="/img/vrh/A/13.jpg" alt="">
+      </a>
+   </div>
+   <!-- image -->
+   <div class="isotope-item col-lg-4 col-md-6">
+      <a class="baguette-lightbox" href="/img/vrh/A/14.jpg">
+         <img class="img-fluid" src="/img/vrh/A/14.jpg" alt="">
+      </a>
+   </div>
+   <!-- image -->
+   <div class="isotope-item col-lg-4 col-md-6">
+      <a class="baguette-lightbox" href="/img/vrh/A/15.jpg">
+         <img class="img-fluid" src="/img/vrh/A/15.jpg" alt="">
+      </a>
+   </div>
+   <!-- image -->
+   <div class="isotope-item
+                                                         col-lg-4 col-md-6">
+      <a class="baguette-lightbox" href="/img/vrh/A/16.jpg">
+         <img class="img-fluid" src="/img/vrh/A/16.jpg" alt="">
+      </a>
+   </div>
+   <!-- image -->
+   <div class="isotope-item
+                                                         col-lg-4 col-md-6">
+      <a class="baguette-lightbox" href="/img/vrh/A/17.jpg">
+         <img class="img-fluid" src="/img/vrh/A/17.jpg" alt="">
+      </a>
+   </div>
+   <!-- image -->
+   <div class="isotope-item
+                                                         col-lg-4 col-md-6">
+      <a class="baguette-lightbox" href="/img/vrh/A/18.jpg">
+         <img class="img-fluid" src="/img/vrh/A/18.jpg" alt="">
+      </a>
+   </div>
+   <!-- image -->
+   <div class="isotope-item
+                                                         col-lg-4 col-md-6">
+      <a class="baguette-lightbox" href="/img/vrh/A/19.jpg">
+         <img class="img-fluid" src="/img/vrh/A/19.jpg" alt="">
+      </a>
+   </div>
+   <div class="isotope-item
+                                                         col-lg-4 col-md-6">
+      <a class="baguette-lightbox" href="/img/vrh/A/20.jpg">
+         <img class="img-fluid" src="/img/vrh/A/20.jpg" alt="">
+      </a>
+   </div>
+   <div class="isotope-item
+                                                         col-lg-4 col-md-6">
+      <a class="baguette-lightbox" href="/img/vrh/A/21.jpg">
+         <img class="img-fluid" src="/img/vrh/A/21.jpg" alt="">
+      </a>
+   </div>
+   <!-- image -->
+   <div class="isotope-item col-lg-4 col-md-6">
+      <a class="baguette-lightbox" href="/img/vrh/A/22.jpg">
+         <img class="img-fluid" src="/img/vrh/A/22.jpg" alt="">
+      </a>
+   </div>
+   <!-- /isotope-item -->
+</div>
