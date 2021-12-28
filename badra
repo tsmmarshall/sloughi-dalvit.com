@@ -1,18 +1,18 @@
 ---
 layout: firstpage
-title: Vrh A
+title: Badra
 ---
 <!-- Jumbotron -->
 <div class="jumbotron jumbotron-fluid" data-center="background-size: 100%;" data-top-bottom="background-size: 110%;">
    <div class="container">
       <!-- jumbo-heading -->
       <div class="jumbo-heading" data-aos="fade-up">
-         <h1>Vrh "A"</h1>
+         <h1>Badra Shubah al Warda</h1>
          <!-- Breadcrumbs -->
          <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
                <li class="breadcrumb-item"><a href="index.html">Domů</a></li>
-               <li class="breadcrumb-item active"><a href="/vrh-a">Vrh A</a></li>
+               <li class="breadcrumb-item active"><a href="/vrh-a">Badra Shubah al Warda</a></li>
             </ol>
          </nav>
          <!-- /breadcrumb -->
@@ -27,9 +27,8 @@ title: Vrh A
    <div class="row">
       <!-- page with sidebar starts -->
       <div class="col-lg-12 page-with-sidebar">
-         <h2>Vrh "A"</h2>
-         <span class="h7 mt-0">Narozen 12. 6. 2004 - 6 štěňat sloughi, 4 feny a
-            2 psi.</span>
+         <h2>Badra Shubah al Warda</h2>
+         <span class="h7 mt-0">Narozena 17. 5. 2015 </span>
          <hr class="small-divider left">
          <!-- story 1 -->
          <div class="row mt-5">
