@@ -7,13 +7,13 @@ title: Plemeno
    <div class="container">
       <!-- jumbo-heading -->
       <div class="jumbo-heading" data-aos="fade-up">
-         <h1>Emocionální koktejl</h1>
+         <h1>Začátek roku 2022</h1>
          <!-- Breadcrumbs -->
          <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
                <li class="breadcrumb-item"><a href="/">Domů</a></li>
                <li class="breadcrumb-item"><a href="/blog">Blog</a></li>
-               <li class="breadcrumb-item active"><a href="/emocionalni-koktejl">Karel</a></li>
+               <li class="breadcrumb-item active"><a href="/zacatek-roku-2022">Začátek roku 2022</a></li>
             </ol>
          </nav>
          <!-- /breadcrumb -->
@@ -30,26 +30,31 @@ title: Plemeno
          <!-- Post Content Column -->
          <a name=psi></a>
          <div class="col-lg-9 blog-card page-with-sidebar">
-            <h2 class="mb-2">Novinka roku 2021 - Karel</h2>
+            <h2 class="mb-2">Začátek roku 2022</h2>
             <!-- Post info-->
             <div class="post-info text-muted">
-               26. srpna 2021 / Lenka Kubová
+               23. května 2022 / Lenka Kubová
             </div>
             <hr>
             <!-- Preview Image -->
-            <img src="/img/blog/MDS08465_navlastniblog.jpg" class="img-fluid" alt="">
+            <img src="/img/fotogalerie/MDC_2156_blog.jpg" class="img-fluid" alt="">
             <hr>
             <!-- Post Content -->
-            <p class="lead text-primary">Emocionální koktejl</p>
+            <p class="lead text-primary">    </p>
 
             <p align="justify">
-             Pořád to se mnou cloumá....jsou věci, které se vryjí hluboko, strašně hluboko.</br>
-              Byla jsem v tom nejkrásnějším místě na světě pro život se Sloughi. Přivezla kouzelný čtyřnohý uzlíček štěstí, poznala neuvěřitelné lidi, ryzí charaktery. Dýchala vzduch, ze kterého se mi ještě dnes točí hlava. Přátelé, já nemám slov. Z celého ❤️ děkuji. Děkuji Ullis a její úžasné dceři Johaně, za laskavost, starost, péči, posílám jim vřelá objetí a gratulace
-              k tak luxusnímu vrhu štěňat. Děkuji svým dětem, že se mnou cestu podnikly, bez nich bych se ztratila už v pražském metru a především děkuji svému muži, bez nějž by se nic z toho neuskutečnilo. ❤️
-             </br> Představuji vám všem našeho drobečka:
-              „DEL KHAZARIS KAREL AG DALVIT“</br>
-              Více fotografií v galerii.</br>
+             Poklidné měsíce, z maličkého Kaji se klube pubertální Kaji. Slaví osmý měsíc. 
+             Poklidný a spokojený čas (vložit fotky ze složky Karel sedm měsíců). Casablanka získává titul Český šampion a vstavní kolotoč se rozjíždí…. 
+             Všechny fotky najdete ve fotogalerii 😊
             </p>
+            
+            <img src="/img/fotogalerie/IMG_5885.JPG" class="img-fluid" alt="">
+            <img src="/img/fotogalerie/MD702536e.JPG" class="img-fluid" alt="">
+            <img src="/img/fotogalerie/K47A9274.JPG" class="img-fluid" alt="">
+            <img src="/img/fotogalerie/DSC6663.JPG" class="img-fluid" alt="">
+            <img src="/img/fotogalerie/DSA02623.JPG" class="img-fluid" alt="">
+            
+            
          </div>
          <!-- /page-with-sidebar -->
          <!-- Sidebar -->
@@ -70,6 +75,8 @@ title: Plemeno
                                        list-group-item-action">Současnost</a>
                   <a href="/emocionalni-koktejl" class="list-group-item
                                        list-group-item-action">Novinka roku 2021 - Karel</a>
+                  <a href="/zacatek-roku-2022" class="list-group-item
+                                       list-group-item-action">Začátek roku 2022</a>
                </div>
             </div>
 
