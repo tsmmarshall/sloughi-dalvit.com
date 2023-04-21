@@ -1,0 +1,96 @@
+---
+layout: firstpage
+title: Plemeno
+---
+<!-- Jumbotron -->
+<div class="jumbotron jumbotron-fluid" data-center="background-size: 100%;" data-top-bottom="background-size: 110%;">
+   <div class="container">
+      <!-- jumbo-heading -->
+      <div class="jumbo-heading" data-aos="fade-up">
+         <h1>Emocionální koktejl</h1>
+         <!-- Breadcrumbs -->
+         <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+               <li class="breadcrumb-item"><a href="/">Domů</a></li>
+               <li class="breadcrumb-item"><a href="/blog">Blog</a></li>
+               <li class="breadcrumb-item active"><a href="/emocionalni-koktejl">Karel</a></li>
+            </ol>
+         </nav>
+         <!-- /breadcrumb -->
+      </div>
+      <!-- /jumbo-heading -->
+   </div>
+   <!-- /container -->
+</div>
+<!-- /jumbotron -->
+<!-- ==== Page Content ==== -->
+<div class="page">
+   <div class="container">
+      <div class="row">
+         <!-- Post Content Column -->
+         <a name=psi></a>
+         <div class="col-lg-9 blog-card page-with-sidebar">
+            <h2 class="mb-2">Novinka roku 2021 - Karel</h2>
+            <!-- Post info-->
+            <div class="post-info text-muted">
+               26. srpna 2021 / Lenka Kubová
+            </div>
+            <hr>
+            <!-- Preview Image -->
+            <img src="/img/blog/MDS08465_navlastniblog.jpg" class="img-fluid" alt="">
+            <hr>
+            <!-- Post Content -->
+            <p class="lead text-primary">Emocionální koktejl</p>
+
+            <p align="justify">
+             Pořád to se mnou cloumá....jsou věci, které se vryjí hluboko, strašně hluboko.</br>
+              Byla jsem v tom nejkrásnějším místě na světě pro život se Sloughi. Přivezla kouzelný čtyřnohý uzlíček štěstí, poznala neuvěřitelné lidi, ryzí charaktery. Dýchala vzduch, ze kterého se mi ještě dnes točí hlava. Přátelé, já nemám slov. Z celého ❤️ děkuji. Děkuji Ullis a její úžasné dceři Johaně, za laskavost, starost, péči, posílám jim vřelá objetí a gratulace
+              k tak luxusnímu vrhu štěňat. Děkuji svým dětem, že se mnou cestu podnikly, bez nich bych se ztratila už v pražském metru a především děkuji svému muži, bez nějž by se nic z toho neuskutečnilo. ❤️
+             </br> Představuji vám všem našeho drobečka:
+              „DEL KHAZARIS KAREL AG DALVIT“</br>
+              Více fotografií v galerii.</br>
+            </p>
+         </div>
+         <!-- /page-with-sidebar -->
+         <!-- Sidebar -->
+         <div id="sidebar" class="bg-light h-100 col-lg-3 card pattern3">
+            <!--/widget-area -->
+            <div class="widget-area">
+               <h5 class="sidebar-header">Kategorie</h5>
+               <div class="list-group">
+                  <a href="/plemeno" class="list-group-item
+                                       list-group-item-action">
+                     Povaha Sloughi
+                  </a>
+                  <a href="/psi-ktere-kazdy-nezna" class="list-group-item
+                                       list-group-item-action">Psi, které každý nezná</a>
+                  <a href="/standard-fci" class="list-group-item
+                                       list-group-item-action">Standard FCI</a>
+                  <a href="/soucasnost" class="list-group-item
+                                       list-group-item-action">Současnost</a>
+                  <a href="/emocionalni-koktejl" class="list-group-item
+                                       list-group-item-action">Novinka roku 2021 - Karel</a>
+               </div>
+            </div>
+
+            <!--/widget-area -->
+            <div class="widget-area">
+               <h5 class="sidebar-header">Sledujte nás</h5>
+               <div class="contact-icon-info">
+                  <ul class="social-media text-center">
+                     <!--social icons -->
+                     <li><a href="https://www.facebook.com/lenka.malinovska.39"><i
+                              class="fab fa-facebook-square"></i></a></li>
+                  </ul>
+               </div>
+               <!--/contact-icon-info -->
+            </div>
+            <!--/widget-area -->
+         </div>
+         <!--/sidebar -->
+      </div>
+      <!-- /.row -->
+   </div>
+   <!-- /.container -->
+</div>
+<!-- /page -->
